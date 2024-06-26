@@ -1,0 +1,14 @@
+0	Paolo	N
+1	pesca	V
+
+0	Giovanni	N
+1	ama	V
+2	i	A
+3	cani	N
+
+0	Francesca	N
+1	ama	N
+
+0	Una	A
+1	pesca	N
+2	Francesca	AGG
