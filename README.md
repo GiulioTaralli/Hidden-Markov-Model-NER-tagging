@@ -1,2 +1,2 @@
 # NER tagging with Hidden Markov Model
-first part project of NLP.
+First of three projects for the NLP course.
